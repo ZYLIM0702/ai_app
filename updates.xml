@@ -3,10 +3,10 @@
     <channel>
         <title>Ymage | App Updates</title>
         <item>
-            <title>Version 1.0.3</title>
-            <description>Minor updates and improvements.</description>
-            <pubDate>Sun, 28 Dec 2023 12:00:00 +0000</pubDate>
-            /** <enclosure url="https://play.google.com/store/apps/details?id=com.limziyang.ai" sparkle:version="1.0.3" sparkle:os="android" /> **/
+            <title>Version 1.0.4</title>
+            <description>Huge updates and improvements.</description>
+            <pubDate>Fri, 31 May 2024 12:00:00 +0000</pubDate>
+            /** <enclosure url="https://play.google.com/store/apps/details?id=com.limziyang.ai" sparkle:version="1.0.4" sparkle:os="android" /> **/
         </item>
     </channel>
 </rss>
